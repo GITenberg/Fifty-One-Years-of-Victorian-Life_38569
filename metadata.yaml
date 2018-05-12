@@ -1,0 +1,35 @@
+_repo: Fifty-One-Years-of-Victorian-Life_38569
+_version: 0.1.0
+alternative_title: 51 Years of Victorian Life
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jersey, Margaret Elizabeth Leigh Child-Villiers, Countess of
+    aliases:
+    - Leigh Child-Villiers, Margaret Elizabeth, Countess of Jersey
+    - Jersey, Dowager Countess of
+    - Child-Villiers, Margaret Elizabeth Leigh, Countess of Jersey
+    - Jersey, Countess of
+    birthdate: 1849
+    deathdate: 1945
+    gutenberg_agent_id: '39536'
+    url: http://www.gutenberg.org/2009/agents/39536
+description: ''
+gutenberg_issued: '2012-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+- !lcc 'DA'
+- !lcsh 'Nobility -- Great Britain -- Biography'
+- !lcsh 'Jersey, Margaret Elizabeth Leigh Child-Villiers, Countess of, 1849-1945'
+title: Fifty-One Years of Victorian Life
+url: http://www.gutenberg.org/ebooks/38569
