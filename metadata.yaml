@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '39536'
     url: http://www.gutenberg.org/2009/agents/39536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38569#Fifty-One-Years-of-Victorian-Life
 gutenberg_issued: '2012-01-14'
 gutenberg_type: Text
 identifiers:
